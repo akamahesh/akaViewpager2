@@ -1,0 +1,7 @@
+#Wed Sep 11 16:20:14 IST 2019
+base.0=/home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/build/intermediates/transforms/dexMerger/debug/1

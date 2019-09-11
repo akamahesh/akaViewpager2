@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/ec1e5ca6a26cc20e56cb524296ac7b1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/0367b20a59f8193f922de94dab57c713/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/5a9606a83ae776ed69734cf239f06fad/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/beffb616127c20b3331582cc9edfb7b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/73b02ca0633100d9fd31a843f42dd888/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/030362077765210154c5d6b61c3a9642/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/6a643b9f8ff284cee068c996a06b8c22/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.castorflex.verticalviewpager:library:19.0.1] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/41b401f0e90316f1ef774509146c61fd/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/666ed96a4321a4e2b3ea83f44561975b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/3388a7417b56bb1373b871a449697b1b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/d80bd58b6b8c777fcc8626a40a4cbcbb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/957867bd06ee506d60a7106c38392859/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/a991f23ed74b36b888ae4402d14bc04c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/5fe88873281f732a5ecd12ae1129373f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/27840f83e3c953afb2ebb5e790422451/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/68714ecd0f6894b08b0801c7f190b5ea/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/966023b6110c82f3f01ce7dc19e70f37/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/40b065cf40db0e1cc9ddca39f855c815/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/9d68edcb775c97ab14a6458c0cd48979/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/44933f5d4a109cdd52b4598bc6465d7b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/aed9a3f2c5e22e3c52d8a0616fe82d2a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/8a9b5866dbbbe667f05948101ab51f27/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/3a1c4b91186970f327b415f72549a8c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/0cf39e4dbc6a7f96db7c12f7ef2f031c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/160bf40d02f69c5cb14d5952ea0bfc88/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/d0b81458f2cf014e02ab030e91678d18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/d60e9d9a68165be0125e8eeb134cd450/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/fa3957eb9d03efe59a49d8fc8c69e7a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/5bb526b8059ccf4dd01b6f0a687686e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/fdff72cc7a25912e51f119ce0ae94771/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/93ff267147fd1d0ef829346369374a22/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/94790e287fab82d3910a3ad56c08859c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/ff5ce79ac2aa8ad33c5d1ac879977d74/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc02] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/c0239eb49b050ec9a16739a517f56d7e/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/261437ec15363a1fb67dd729f01903d6/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/e20296a2312dfd3aced0a85b95317847/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/b9de0a09d1a5bfb208e6f6b1b12254ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/75d3a509ccaa008d6cbe52ef76bf36c3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/f8b841fa04ca413cac23704627fd76b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/34861e2ce148f42f7952c4ff8db196eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/98953e7ed98cb4126aae507e563e164e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/e8791307e7b1c97d063ae8543eae5e0e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/dab9eb35db90b224d0a8d8fd9192ccd9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/456bd99150b096978f846d8cc99515d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/c1f7180ae7e0c5fa53e268809e1a1b99/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:5:5-27:19
+MERGED from [com.google.android.material:material:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/5a9606a83ae776ed69734cf239f06fad/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/5a9606a83ae776ed69734cf239f06fad/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/73b02ca0633100d9fd31a843f42dd888/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/73b02ca0633100d9fd31a843f42dd888/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-rc02] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/c0239eb49b050ec9a16739a517f56d7e/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc02] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/c0239eb49b050ec9a16739a517f56d7e/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/261437ec15363a1fb67dd729f01903d6/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/261437ec15363a1fb67dd729f01903d6/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc02] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/c0239eb49b050ec9a16739a517f56d7e/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.akastudios.akaviewpager.MainActivity
+ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.akastudios.akaviewpager.VerticalViewpagerActivity
+ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:24:9-62
+	android:name
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:24:19-60
+activity#com.akastudios.akaviewpager.VerticalViewpagerActivityLib
+ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:25:9-65
+	android:name
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:25:19-63
+activity#com.akastudios.akaviewpager.VerticalViewpager2Activity
+ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:26:9-64
+	android:name
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml:26:19-61
+uses-sdk
+INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/ec1e5ca6a26cc20e56cb524296ac7b1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/ec1e5ca6a26cc20e56cb524296ac7b1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/0367b20a59f8193f922de94dab57c713/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/0367b20a59f8193f922de94dab57c713/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/5a9606a83ae776ed69734cf239f06fad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/5a9606a83ae776ed69734cf239f06fad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/beffb616127c20b3331582cc9edfb7b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/beffb616127c20b3331582cc9edfb7b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/73b02ca0633100d9fd31a843f42dd888/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/73b02ca0633100d9fd31a843f42dd888/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/030362077765210154c5d6b61c3a9642/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/030362077765210154c5d6b61c3a9642/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/6a643b9f8ff284cee068c996a06b8c22/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/6a643b9f8ff284cee068c996a06b8c22/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.castorflex.verticalviewpager:library:19.0.1] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/41b401f0e90316f1ef774509146c61fd/AndroidManifest.xml:3:5-72
+MERGED from [com.github.castorflex.verticalviewpager:library:19.0.1] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/41b401f0e90316f1ef774509146c61fd/AndroidManifest.xml:3:5-72
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/666ed96a4321a4e2b3ea83f44561975b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/666ed96a4321a4e2b3ea83f44561975b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/3388a7417b56bb1373b871a449697b1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/3388a7417b56bb1373b871a449697b1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/d80bd58b6b8c777fcc8626a40a4cbcbb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/d80bd58b6b8c777fcc8626a40a4cbcbb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/957867bd06ee506d60a7106c38392859/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/957867bd06ee506d60a7106c38392859/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/a991f23ed74b36b888ae4402d14bc04c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/a991f23ed74b36b888ae4402d14bc04c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/5fe88873281f732a5ecd12ae1129373f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/5fe88873281f732a5ecd12ae1129373f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/27840f83e3c953afb2ebb5e790422451/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/27840f83e3c953afb2ebb5e790422451/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/68714ecd0f6894b08b0801c7f190b5ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/68714ecd0f6894b08b0801c7f190b5ea/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/966023b6110c82f3f01ce7dc19e70f37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/966023b6110c82f3f01ce7dc19e70f37/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/40b065cf40db0e1cc9ddca39f855c815/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/40b065cf40db0e1cc9ddca39f855c815/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/9d68edcb775c97ab14a6458c0cd48979/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/9d68edcb775c97ab14a6458c0cd48979/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/44933f5d4a109cdd52b4598bc6465d7b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/44933f5d4a109cdd52b4598bc6465d7b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/aed9a3f2c5e22e3c52d8a0616fe82d2a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/aed9a3f2c5e22e3c52d8a0616fe82d2a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/8a9b5866dbbbe667f05948101ab51f27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/8a9b5866dbbbe667f05948101ab51f27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/3a1c4b91186970f327b415f72549a8c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/3a1c4b91186970f327b415f72549a8c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/0cf39e4dbc6a7f96db7c12f7ef2f031c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/0cf39e4dbc6a7f96db7c12f7ef2f031c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/160bf40d02f69c5cb14d5952ea0bfc88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/160bf40d02f69c5cb14d5952ea0bfc88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/d0b81458f2cf014e02ab030e91678d18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/d0b81458f2cf014e02ab030e91678d18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/d60e9d9a68165be0125e8eeb134cd450/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/d60e9d9a68165be0125e8eeb134cd450/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/fa3957eb9d03efe59a49d8fc8c69e7a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/fa3957eb9d03efe59a49d8fc8c69e7a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/5bb526b8059ccf4dd01b6f0a687686e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/5bb526b8059ccf4dd01b6f0a687686e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/fdff72cc7a25912e51f119ce0ae94771/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/fdff72cc7a25912e51f119ce0ae94771/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/93ff267147fd1d0ef829346369374a22/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/93ff267147fd1d0ef829346369374a22/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/94790e287fab82d3910a3ad56c08859c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/94790e287fab82d3910a3ad56c08859c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/ff5ce79ac2aa8ad33c5d1ac879977d74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/ff5ce79ac2aa8ad33c5d1ac879977d74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc02] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/c0239eb49b050ec9a16739a517f56d7e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc02] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/c0239eb49b050ec9a16739a517f56d7e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/261437ec15363a1fb67dd729f01903d6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/261437ec15363a1fb67dd729f01903d6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/e20296a2312dfd3aced0a85b95317847/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/e20296a2312dfd3aced0a85b95317847/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/b9de0a09d1a5bfb208e6f6b1b12254ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/b9de0a09d1a5bfb208e6f6b1b12254ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/75d3a509ccaa008d6cbe52ef76bf36c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/75d3a509ccaa008d6cbe52ef76bf36c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/f8b841fa04ca413cac23704627fd76b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/f8b841fa04ca413cac23704627fd76b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/34861e2ce148f42f7952c4ff8db196eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/34861e2ce148f42f7952c4ff8db196eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/98953e7ed98cb4126aae507e563e164e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/98953e7ed98cb4126aae507e563e164e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/e8791307e7b1c97d063ae8543eae5e0e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/e8791307e7b1c97d063ae8543eae5e0e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/dab9eb35db90b224d0a8d8fd9192ccd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/dab9eb35db90b224d0a8d8fd9192ccd9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/456bd99150b096978f846d8cc99515d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/456bd99150b096978f846d8cc99515d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/c1f7180ae7e0c5fa53e268809e1a1b99/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dbdigital/.gradle/caches/transforms-2/files-2.1/c1f7180ae7e0c5fa53e268809e1a1b99/AndroidManifest.xml:20:5-44
+INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+		ADDED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dbdigital/akaStudio/OpenSource/VerticalViewpager/akaViewPager/app/src/main/AndroidManifest.xml
